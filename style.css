@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid rgba(9,12,12,255);
+    border-collapse: collapse;
+    border-bottom: 2px dashed black;
+    column-width: 4cm;
+    line-height: 1.5cm;
+   
+}
+th{
+    
+    border: 2px dotted yellow;
+}
+table{
+    border: 2px solid brown;
+}
